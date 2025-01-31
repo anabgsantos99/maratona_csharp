@@ -1,7 +1,0 @@
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\bin\Debug\nome_completo.exe.config
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\bin\Debug\nome_completo.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\bin\Debug\nome_completo.pdb
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\obj\Debug\nome_completo.csproj.AssemblyReference.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\obj\Debug\nome_completo.csproj.CoreCompileInputs.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\obj\Debug\nome_completo.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\nome_completo\obj\Debug\nome_completo.pdb

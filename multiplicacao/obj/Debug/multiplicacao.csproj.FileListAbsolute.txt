@@ -1,7 +1,0 @@
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\bin\Debug\multiplicacao.exe.config
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\bin\Debug\multiplicacao.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\bin\Debug\multiplicacao.pdb
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\obj\Debug\multiplicacao.csproj.AssemblyReference.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\obj\Debug\multiplicacao.csproj.CoreCompileInputs.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\obj\Debug\multiplicacao.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\multiplicacao\obj\Debug\multiplicacao.pdb

@@ -1,7 +1,0 @@
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\bin\Debug\seguranca.exe.config
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\bin\Debug\seguranca.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\bin\Debug\seguranca.pdb
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\obj\Debug\seguranca.csproj.AssemblyReference.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\obj\Debug\seguranca.csproj.CoreCompileInputs.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\obj\Debug\seguranca.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\seguranca\obj\Debug\seguranca.pdb

@@ -1,7 +1,0 @@
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\bin\Debug\laco02.exe.config
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\bin\Debug\laco02.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\bin\Debug\laco02.pdb
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\obj\Debug\laco02.csproj.AssemblyReference.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\obj\Debug\laco02.csproj.CoreCompileInputs.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\obj\Debug\laco02.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\laco02\obj\Debug\laco02.pdb
