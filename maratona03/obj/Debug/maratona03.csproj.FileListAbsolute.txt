@@ -1,0 +1,7 @@
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\bin\Debug\maratona03.exe.config
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\bin\Debug\maratona03.exe
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\bin\Debug\maratona03.pdb
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\obj\Debug\maratona03.csproj.AssemblyReference.cache
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\obj\Debug\maratona03.csproj.CoreCompileInputs.cache
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\obj\Debug\maratona03.exe
+C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona03\obj\Debug\maratona03.pdb
