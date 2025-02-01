@@ -10,9 +10,11 @@ namespace maratona04._1
     {
         static void Main(string[] args)
         {
+            //Solicitar que o usuário digite a idade
             Console.WriteLine("Escreva sua idade");
             int idade = int.Parse(Console.ReadLine());
 
+            //Exibir mensagem de acordo com a faixa etária do usuário
             if (idade < 12)
             {
                 Console.WriteLine("Criança");

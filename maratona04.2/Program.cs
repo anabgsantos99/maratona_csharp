@@ -10,12 +10,14 @@ namespace maratona04._2
     {
         static void Main(string[] args)
         {
+            //Solicitar que o usuário escolha dentre as opções 
             Console.WriteLine("Escreva um número inteiro entre 1 e 7:");
             int dia = int.Parse(Console.ReadLine());
 
-
-            switch (dia)
+            //Determinar condicionais
+            switch (dia) 
             {
+            //Exibir mensagem de acordo com a escolha do usuário
                 case 1:
                     Console.WriteLine("Domingo");
                     break;

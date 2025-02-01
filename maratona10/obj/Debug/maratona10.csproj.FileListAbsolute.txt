@@ -1,7 +1,0 @@
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\bin\Debug\maratona10.exe.config
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\bin\Debug\maratona10.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\bin\Debug\maratona10.pdb
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\obj\Debug\maratona10.csproj.AssemblyReference.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\obj\Debug\maratona10.csproj.CoreCompileInputs.cache
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\obj\Debug\maratona10.exe
-C:\Users\anabg\OneDrive\Documentos\Visual Studio 2022\logica_programacao\maratona10\obj\Debug\maratona10.pdb

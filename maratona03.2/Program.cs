@@ -10,8 +10,9 @@ namespace maratona03._2
     {
         static void Main(string[] args)
         {
+            //Declarar array com o nome de cidades 
             string[] cidades = { "São Paulo ", "Rio de Janeiro ", "Salvador", "João Pessoa", "São José dos Campos" };
-
+            //Criar laço para exibir todas as cidades 
             foreach (string cidade in cidades)
             {
                 Console.WriteLine(cidade);

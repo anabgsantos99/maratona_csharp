@@ -13,27 +13,39 @@ namespace maratona12
     {
         static void Main(string[] args)
         {
-            double valorCompra = 396.70D;
-            double desconto = 0;
-            double valorFinal = 0;
+            //Declarar variáveis
+            double valorCompra;
+            double desconto;
+            double valorFinal;
+
+            //Solicitar valor da compra 
+            Console.WriteLine("Digite o valor da compra:");
+            valorCompra = double.Parse(Console.ReadLine());
+
 
             if (valorCompra < 100)
             {
+                //Calcular o desconto de compras até 100R$
                 desconto = 5;
                 valorFinal = valorCompra - ((valorCompra * desconto) / 100);
-                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra de R${valorCompra:f2} e o valor final é: R${valorFinal:f2}");
+                //Exibir desconto e valor final
+                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra e o valor final é: R${valorFinal}");
             }
             else if (valorCompra > 100 && valorCompra < 300)
             {
+                //Calcular o desconto de compras entre 100,01 a 300R$
                 desconto = 10;
                 valorFinal = valorCompra - ((valorCompra * desconto) / 100);
-                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra de R${valorCompra:f2} e o valor final é: R${valorFinal:f2}");
+                //Exibir desconto e valor final
+                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra e o valor final é: R${valorFinal}");
             }
             else
             {
+                //Calcular desconto de compras acima de 300R$
                 desconto = 15;
                 valorFinal = valorCompra - ((valorCompra * desconto) / 100);
-                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra de R${valorCompra:f2} e o valor final é: R${valorFinal:f2}");
+                //Exibir desconto e valor final
+                Console.WriteLine($"Foi aplicado um desconto de {desconto}% na sua compra e o valor final é: R${valorFinal}");
             }
 
 

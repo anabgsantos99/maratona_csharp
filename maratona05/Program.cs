@@ -10,13 +10,16 @@ namespace maratona05
     {
         static void Main(string[] args)
         {
+            // Sistema de Segurança com bool 
+            //Declare um variável bool
             bool usuarioLogado = false;
 
-            if (usuarioLogado)
+            
+            if (usuarioLogado) //Exibir mensagem caso usuário esteja logado
             {
                 Console.WriteLine("O usuário está logado");
             }
-            else
+            else //Exibir mensagem caso usuário não esteja logado
             {
                 Console.WriteLine("O usuário não está logado");
             }
